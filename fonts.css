@@ -1,0 +1,8 @@
+/* Self-hosted fonts (SIL Open Font License, see assets/fonts/OFL-*.txt). Subset: Latin + Cyrillic. */
+@font-face{font-family:"Italiana";font-style:normal;font-weight:400;font-display:swap;src:url("../fonts/Italiana-Regular.woff") format("woff")}
+@font-face{font-family:"Tenor Sans";font-style:normal;font-weight:400;font-display:swap;src:url("../fonts/TenorSans-Regular.woff") format("woff")}
+@font-face{font-family:"Bodoni Moda";font-style:italic;font-weight:400 500;font-display:swap;src:url("../fonts/BodoniModa-Italic-Variable.woff") format("woff")}
+@font-face{font-family:"IBM Plex Mono";font-style:normal;font-weight:300;font-display:swap;src:url("../fonts/IBMPlexMono-Light.woff") format("woff")}
+@font-face{font-family:"IBM Plex Mono";font-style:normal;font-weight:400;font-display:swap;src:url("../fonts/IBMPlexMono-Regular.woff") format("woff")}
+@font-face{font-family:"Forum";font-style:normal;font-weight:400;font-display:swap;src:url("../fonts/Forum-Regular.woff") format("woff")}
+@font-face{font-family:"Cormorant Garamond";font-style:italic;font-weight:400;font-display:swap;src:url("../fonts/CormorantGaramond-Italic.woff") format("woff")}
